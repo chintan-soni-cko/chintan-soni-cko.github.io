@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.checkout.threeds.sample",
+    "sha256_cert_fingerprints":
+    ["A1:DD:8F:B1:64:D2:22:BB:07:34:43:71:7C:41:77:64:EC:EA:D6:4F:B2:7F:5A:0F:95:DD:2D:60:56:D7:5A:E7"]
+  }
+}]
